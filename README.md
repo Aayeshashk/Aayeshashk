@@ -1,44 +1,49 @@
 <!-- ===================================================== -->
-<!--              AAYESHA SHAIKH • GITHUB README          -->
+<!--           AAYESHA SHAIKH • GITHUB PROFILE             -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=190&section=header&text=Aayesha%20Shaikh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%E2%80%A2%20AI%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Aayesha%20Shaikh&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20AI%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20UI%2FUX&descAlignY=60&descSize=18&descColor=F9A8D4&color=0:0D0B12,35:1A1025,65:7C3AED,100:EC4899" />
 
-<h1>
-  Hey there! 👋
-</h1>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Exploring+AI+%26+Intelligent+Systems+%F0%9F%A4%96;Building+User-Friendly+Web+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%8C%B8" />
+
+<div align="center">
+
+# Hey there! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student+%F0%9F%92%BB;Exploring+AI+%26+Intelligent+Systems+%F0%9F%A4%96;Building+User-Friendly+Web+Experiences+%E2%9C%A8;Always+Learning.+Always+Creating.+%F0%9F%8C%B8" />
 
 <br/><br/>
 
 <a href="https://github.com/Aayeshashk?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aayeshashk?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a&logo=github"/>
+<img src="https://img.shields.io/github/followers/Aayeshashk?label=Followers&style=for-the-badge&color=EC4899&labelColor=0D0B12&logo=github"/>
 </a>
 
 <a href="https://github.com/Aayeshashk">
-  <img src="https://komarev.com/ghpvc/?username=Aayeshashk&label=Profile%20Views&color=FF69B4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Aayeshashk&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Aayeshashk?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Aayeshashk?affiliations=OWNER&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a&logo=github"/>
+<img src="https://img.shields.io/github/stars/Aayeshashk?affiliations=OWNER&style=for-the-badge&color=F472B6&labelColor=0D0B12&logo=github"/>
 </a>
 
 </div>
 
 <br/>
 
+
 <!-- ===================================================== -->
-<!--                        ABOUT ME                       -->
+<!--                       ABOUT ME                        -->
 <!-- ===================================================== -->
 
 <h2 align="center">🌸 About Me</h2>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="60%" valign="top">
 
 ### 👩‍💻 Hello, I'm Aayesha!
 
@@ -63,19 +68,21 @@ I enjoy combining creativity and technology to create systems that are useful, a
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&hide_border=true&title_color=F472B6&text_color=FCE7F3&bg_color=0D0B12&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=F472B6&icon_color=EC4899&text_color=FCE7F3&bg_color=0D0B12&rank_icon=github"/>
 
 </td>
+
 </tr>
 </table>
 
 <br/>
+
 
 <!-- ===================================================== -->
 <!--                      TECH STACK                       -->
@@ -87,45 +94,45 @@ I enjoy combining creativity and technology to create systems that are useful, a
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-### 🌐 Web & Development
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
-
-<br/><br/>
-
-### 🤖 AI, Data & Emerging Technologies
-
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark"/>
 
 <br/><br/>
 
-### 🗄️ Databases & Backend
+### 🤖 AI & Data
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
 <br/><br/>
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&theme=dark"/>
 
 </div>
 
 <br/>
 
+
 <!-- ===================================================== -->
-<!--                        PROJECTS                       -->
+<!--                    FEATURED PROJECTS                  -->
 <!-- ===================================================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -137,15 +144,19 @@ I enjoy combining creativity and technology to create systems that are useful, a
 An AI-powered system designed to verify the authenticity of digital evidence.
 
 #### Features
+
 - 🖼️ Image analysis
 - 🤖 CNN-based tampering detection
 - 📄 Metadata analysis
 - 🔒 SHA-256 hashing
-- 🕵️ Support for digital forensic investigations
+- 🕵️ Digital forensic investigation support
 
-<b>Tech Focus:</b> AI • Computer Vision • Digital Forensics • Python
+**Tech:**
+
+AI • Computer Vision • Digital Forensics • Python
 
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -154,12 +165,15 @@ An AI-powered system designed to verify the authenticity of digital evidence.
 An interactive and accessible cognitive game designed for inclusive user experiences.
 
 #### Features
+
 - ♿ Accessibility-focused design
 - 🤖 AI assistant integration
 - 🔊 Read-aloud functionality
 - 🎮 Interactive gameplay
 
-<b>Tech:</b> TypeScript • Web Development
+**Tech:**
+
+TypeScript • Web Development
 
 🔗 [View Repository](https://github.com/Aayeshashk/accessible-cognitive-game)
 
@@ -167,87 +181,98 @@ An interactive and accessible cognitive game designed for inclusive user experie
 
 </tr>
 
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏘️ Social Hive — Society Management Platform
+### 🏘️ Social Hive
 
 A web platform designed to simplify society and community management.
 
 #### Features
+
 - 👤 Member dashboard
 - 🛠️ Admin dashboard
 - 📅 Event management
 - 🔔 Notifications
 - 🔐 Role-based functionality
 
-<b>Tech:</b> HTML • CSS • JavaScript
+**Tech:**
+
+HTML • CSS • JavaScript
 
 </td>
+
 
 <td width="50%" valign="top">
 
 ### 🛡️ Women Safety Platform
 
-Developed as part of the **Smart India Hackathon** concept.
+Developed as part of the **Smart India Hackathon concept**.
 
 #### Proposed Features
+
 - 🚨 SOS alerts
 - 📍 Nearby safe locations
 - 👥 Crowd prediction
 - 🚉 Station safety ratings
 - 🛡️ Public transportation safety support
 
-<b>Tech:</b> HTML • CSS • JavaScript
+**Tech:**
+
+HTML • CSS • JavaScript
 
 </td>
 
 </tr>
-</table>
 
-</div>
+</table>
 
 <br/>
 
+
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                   -->
+<!--                   GITHUB ANALYTICS                    -->
 <!-- ===================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=F472B6&icon_color=EC4899&text_color=FCE7F3&bg_color=0D0B12&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayeshashk&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aayeshashk&hide_border=true&background=0D0B12&stroke=7C3AED&ring=EC4899&fire=F472B6&currStreakLabel=FCE7F3&sideLabels=FCE7F3&dates=C4B5FD"/>
 
 </div>
 
 <br/>
 
+
 <!-- ===================================================== -->
-<!--                   CONTRIBUTION GRAPH                  -->
+<!--                  CONTRIBUTION GRAPH                   -->
 <!-- ===================================================== -->
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D0B12&color=FCE7F3&line=EC4899&point=F472B6&area=true&area_color=7C3AED&hide_border=true"/>
 
 </div>
 
 <br/>
+
+
 <!-- ===================================================== -->
-<!--                   CONTRIBUTION SNAKE                  -->
+<!--                  CONTRIBUTION SNAKE                   -->
 <!-- ===================================================== -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -255,24 +280,25 @@ Developed as part of the **Smart India Hackathon** concept.
 
 
 <!-- ===================================================== -->
-<!--                    CONNECT SECTION                    -->
+<!--                    LET'S CONNECT                      -->
 <!-- ===================================================== -->
 
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
 
-<a href="mailto:aayeshash2412@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Aayeshashk">
+<img src="https://img.shields.io/badge/GitHub-0D0B12?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Aayeshashk">
-  <img src="https://img.shields.io/badge/GITHUB-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:aayeshash2412@gmail.com">
+<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <br/><br/>
+
 
 <!-- ===================================================== -->
 <!--                       QUOTE                           -->
@@ -290,70 +316,13 @@ Developed as part of the **Smart India Hackathon** concept.
 
 <br/>
 
+
 <!-- ===================================================== -->
-<!--                        FOOTER                         -->
+<!--                       FOOTER                          -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70&color=0:EC4899,35:7C3AED,70:1A1025,100:0D0B12"/>
 
 </div>
-
-
-<!-- ===================================================== -->
-<!--          IMPORTANT: SNAKE ANIMATION GITHUB ACTION     -->
-<!-- ===================================================== -->
-
-<!--
-Create this file separately:
-
-.github/workflows/snake.yml
-
-------------------------------------------------------------
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Aayeshashk
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-------------------------------------------------------------
-
-THEME COLOURS USED:
-
-Main Pink: #EF93C4
-Soft Pink: #F8BBD0
-Bright Pink: #FF69B4
-Dark Background: #0D1117
-
--->
