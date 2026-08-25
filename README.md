@@ -164,7 +164,7 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 
 ## 🔬 BUILDING
 
@@ -184,7 +184,7 @@ Turning ideas into practical applications while improving my development and pro
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 
 ## 🧠 EXPLORING
 
@@ -204,7 +204,7 @@ Learning how intelligent systems and modern technologies can solve meaningful pr
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="left" valign="top">
 
 ## 🚀 NEXT MISSION
 
