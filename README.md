@@ -1,127 +1,269 @@
-<div align="center">
+<!-- ========================= -->
+<!--       PROFILE HEADER      -->
+<!-- ========================= -->
 
-<img src="C:\Users\Aayesha\OneDrive\Desktop" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/Aayeshabanner.png" width="100%" alt="Aayesha Banner"/>
+</p>
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aayeshashk-161B22?style=for-the-badge&logo=github&logoColor=FADADD&labelColor=0D1117)](https://github.com/Aayeshashk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=FADADD&labelColor=0D1117)](https://www.linkedin.com/in/aayesha-shaikh-814786320)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-161B22?style=for-the-badge&logo=gmail&logoColor=FADADD&labelColor=0D1117)](mailto:aayeshash2412@gmail.com)
+<!-- ========================= -->
+<!--        PROFILE PIC        -->
+<!-- ========================= -->
 
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/Aayeshaprofilepic.png"
+    width="220"
+    alt="Aayesha Profile Picture"
+  />
+</p>
 
----
+<h1 align="center">
+  Hi, I'm Aayesha 👋
+</h1>
 
-### 🌸 About Me
+<h3 align="center">
+  Computer Engineering Student • Developer • AI Enthusiast
+</h3>
 
-```yaml
-👩‍💻 Computer Engineering Student
-💡 Passionate about technology, innovation and problem-solving
-🤖 Interested in Artificial Intelligence and Intelligent Systems
-🌐 Exploring Web Development and Software Development
-🎨 Interested in UI/UX and creative design
-🚀 Love building projects and learning new technologies
-🌱 Improving my skills one step at a time
-```
+<p align="center">
+  Building meaningful technology, exploring AI, and creating projects that solve real-world problems.
+</p>
 
-> 💭 *I enjoy turning ideas into meaningful, creative and useful technology.*
+<br>
 
-I'm passionate about exploring new technologies, building projects and continuously improving my skills. I enjoy learning how technology can solve real-world problems and create better experiences for people.
+<!-- ========================= -->
+<!--        SOCIAL LINKS       -->
+<!-- ========================= -->
 
-My goal is to grow as a developer while building projects that are useful, innovative and impactful.
+<p align="center">
 
----
+<a href="https://github.com/Aayeshashk">
+<img src="https://img.shields.io/badge/GitHub-Aayeshashk-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 💻 Tech Stack
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+</p>
 
-**🌐 Languages**
+<br>
 
-![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
 
-**⚙️ Development & Tools**
+# 🌸 About Me
 
-![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma)
-
-**🗄️ Database & Cloud**
-
-![MySQL](https://skillicons.dev/icons?i=mysql) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure)
-
-</div>
-
----
-
-### 🚀 Currently Exploring
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center">
 
-**🤖 Artificial Intelligence**
-Learning AI concepts and intelligent systems
+<td width="55%" valign="top">
 
-</td>
-<td width="50%" align="center">
+### 👩‍💻 Who Am I?
 
-**💻 Software Development**
-Building projects and improving development skills
+I'm a Computer Engineering student passionate about building meaningful and useful technology.
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+I enjoy exploring:
 
-**🌐 Web Development**
-Exploring modern web technologies
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Development
+- 🌐 Web Development
+- 📱 UI/UX Design
+- 🧠 Intelligent Systems
+- 🔍 Digital Technologies
 
-</td>
-<td width="50%" align="center">
+I love learning new technologies and turning ideas into real projects.
 
-**🎨 UI/UX Design**
-Creating simple and user-friendly experiences
+My goal is to continuously improve my technical skills and build solutions that create real-world impact.
 
 </td>
+
+<td width="45%" align="center">
+
+<img 
+src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/about-me-aayesha.png"
+width="100%"
+alt="Girl Coding"
+/>
+
+</td>
+
 </tr>
 </table>
 
-```yaml
-🌱 Learning something new every day
-💡 Exploring new technologies
-🚀 Building meaningful projects
-🎯 Growing as a developer
-✨ Turning ideas into reality
-```
+<br>
 
----
+<!-- ========================= -->
+<!--         TECH STACK        -->
+<!-- ========================= -->
 
-### 🌟 Areas of Interest
+# 💻 Tech Stack
 
-<div align="center">
+<p align="center">
 
-`🤖 Artificial Intelligence` `🧠 Machine Learning` `🌐 Web Development` `💻 Software Engineering` `🎨 UI/UX Design` `🚀 Innovative Technology`
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,react,nodejs,mysql,mongodb,git,github,vscode&perline=7"/>
 
-</div>
+</p>
 
----
+<br>
 
-### 💼 Projects
+<!-- ========================= -->
+<!--       CURRENT FOCUS       -->
+<!-- ========================= -->
 
-🚀 *Projects are where ideas become reality.*
+# 🚀 Currently Exploring
 
-I enjoy working on projects that help me learn new technologies, solve problems and improve my development skills.
+<table>
+<tr>
 
-<br/>
+<td width="33%" align="center">
 
-**🔎 AI-Based Digital Evidence Authenticity Verification System** *(Major Project — Ongoing)*
-Building a Python-based pipeline to acquire, process, and analyse image data and metadata for digital evidence authenticity verification, applying data quality and integrity checks to detect tampering while preserving evidence reliability.
+### 🤖 AI & ML
 
-**🐝 Social Hive — Society Management Platform** *(HTML, CSS, JavaScript, Backend)*
-Developed member and admin dashboards with frontend-backend integration for structured data capture and retrieval, including event management, announcements, and notification modules.
+Exploring intelligent systems, machine learning concepts, neural networks and AI applications.
 
-**🧩 Accessible Cognitive Game Platform** *(Lovable AI)*
-Designed an accessibility-focused cognitive game platform with a responsive, inclusive interface, improving usability through user-centric, data-informed design decisions.
+</td>
 
----
+<td width="33%" align="center">
 
-### 🌸 My Developer Journey
+### 💻 Development
+
+Building projects using web technologies, programming and modern development tools.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 Problem Solving
+
+Improving programming skills, logical thinking and real-world problem solving.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= -->
+<!--       GITHUB STATS        -->
+<!-- ========================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=00E5FF&text_color=FFFFFF"
+/>
+
+<br><br>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=FFFFFF"
+/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--      CONTRIBUTIONS        -->
+<!-- ========================= -->
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D1117&color=FFFFFF&line=FF79C6&point=00E5FF&area=true&hide_border=true"
+width="100%"
+alt="GitHub Contribution Graph"
+/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--         STREAK            -->
+<!-- ========================= -->
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Aayeshashk&theme=tokyonight&hide_border=true&background=0D1117&ring=FF79C6&fire=FF79C6&currStreakLabel=00E5FF"
+alt="GitHub Streak"
+/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--         PROJECTS          -->
+<!-- ========================= -->
+
+# 🚀 Featured Projects
+
+### 🌐 Web Development
+
+Projects focused on creating responsive, interactive and user-friendly web applications.
+
+### 🤖 AI & Intelligent Systems
+
+Projects exploring Artificial Intelligence, Machine Learning and intelligent technologies.
+
+### 💻 Software Projects
+
+Applications focused on solving practical problems using programming and modern technologies.
+
+<br>
+
+<!-- ========================= -->
+<!--       CODING QUOTE        -->
+<!-- ========================= -->
+
+# 💭 Developer Mindset
+
+<p align="center">
+
+> "Keep learning, keep building, and let your projects speak for your journey."
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--         VISITORS          -->
+<!-- ========================= -->
+
+<p align="center">
+
+<img 
+src="https://komarev.com/ghpvc/?username=Aayeshashk&label=Profile%20Views&color=ff79c6&style=for-the-badge"
+/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!--          FOOTER           -->
+<!-- ========================= -->
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+<br>
+
+<b>Let's build something meaningful 🚀</b>
+
+</p>
