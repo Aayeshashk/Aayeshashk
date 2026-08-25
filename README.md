@@ -49,7 +49,7 @@ I'm a **Computer Engineering student** and an aspiring **Full Stack Web Develope
 - 🚀 Working on my **Major Project Frontend**
 - 🧠 Always learning, building, experimenting, and improving
 - 🎯 Looking for opportunities to gain real-world development experience
-- 📫 Reach me at: **[YOUR_EMAIL]**
+- 📫 Reach me at: **aayeshash2412@gmail.com**
 
 > *"Small progress every day leads to big results."* ✨
 
