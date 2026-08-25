@@ -247,77 +247,12 @@ Developed as part of the **Smart India Hackathon** concept.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
 <br/>
 
-<!-- ===================================================== -->
-<!--                    CERTIFICATIONS                     -->
-<!-- ===================================================== -->
-
-<h2 align="center">🏆 Certifications & Achievements</h2>
-
-<div align="center">
-
-| 🎓 Achievement | 📌 Area |
-|---|---|
-| 🤖 AI for Business Leaders Bootcamp | Generative AI |
-| 🌐 Internet of Things (IoT) | Value Added Course |
-| 🖨️ Product Design & 3D Printing | Product Development |
-| 🎨 UI/UX Design | Figma & Photoshop |
-| 🏆 Velocity Tech Award | Best All-Girls Team |
-
-</div>
-
-<br/>
-
-<!-- ===================================================== -->
-<!--                     LEADERSHIP                        -->
-<!-- ===================================================== -->
-
-<h2 align="center">🌟 Leadership & Activities</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎨 Graphic Head
-
-**NSS Unit — Pillai College of Engineering**
-
-Led creative design initiatives for college events and campaigns.
-
-- Posters & creatives
-- Branding materials
-- Social media design
-- Event campaigns
-
-</td>
-
-<td align="center" width="50%">
-
-### 💡 Graphics Co-Lead
-
-**GDG PCE**
-
-Worked on branding and promotional creatives for technical events.
-
-- Event branding
-- Promotional creatives
-- Visual identity
-- Community design
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- ===================================================== -->
 <!--                    CONNECT SECTION                    -->
