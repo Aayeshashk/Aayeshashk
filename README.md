@@ -202,9 +202,10 @@ alt="Top Languages"/>
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D1117&color=C084FC&line=F472B6&point=38BDF8&area=true&hide_border=true&custom_title=Aayesha%27s%20Contribution%20Journey"
+<img
+src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/github-metrics.svg"
 width="100%"
-alt="GitHub Contribution Activity Graph"/>
+alt="Aayesha's GitHub Metrics"/>
 
 </div>
 
