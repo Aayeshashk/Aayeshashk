@@ -99,12 +99,11 @@ My goal is to continuously improve my technical skills while creating projects t
 
 <div align="center">
 
-<table>
+<img src="./about me aayesha.png" width="75%" alt="Aayesha Coding"/>
 
-<tr>
+</div>
 
-<td width="33%" align="center">
-
+<br><br>
 ### 🧠 AI & ML
 
 Exploring intelligent systems, machine learning concepts and AI-powered applications.
