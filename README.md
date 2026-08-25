@@ -218,9 +218,9 @@ Developed as part of the **Smart India Hackathon** concept.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayeshashk&hide_border=true&background=0D1117&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&dates=F8BBD0"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayeshashk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -234,12 +234,11 @@ Developed as part of the **Smart India Hackathon** concept.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=Aayesha%27s%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayeshashk&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=true"/>
 
 </div>
 
 <br/>
-
 <!-- ===================================================== -->
 <!--                   CONTRIBUTION SNAKE                  -->
 <!-- ===================================================== -->
