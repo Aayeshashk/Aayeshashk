@@ -22,7 +22,7 @@
 
 <div align="center">
 
-# ✦ HELLO, DIGITAL WORLD ✦
+# ✦ HELLO WORLD ✦
 
 </div>
 
