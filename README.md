@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C084FC,100:F2A7C1&height=200&section=header&text=Hey,%20I'm%20Aayesha!&fontSize=42&fontColor=FADADD&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Tech%20Enthusiast&descAlignY=55&descSize=16&descColor=F2A7C1" width="100%" />
+<img src="C:\Users\Aayesha\OneDrive\Desktop" width="100%" />
 
 <br/>
 
