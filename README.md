@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./Aayeshabanner.png" width="100%" alt="Aayesha Shaikh Banner"/>
+<img src="./banner.png" width="100%" alt="Aayesha Shaikh Banner"/>
 
 <br><br>
 
