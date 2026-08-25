@@ -99,11 +99,12 @@ My goal is to continuously improve my technical skills while creating projects t
 
 <div align="center">
 
-<img src="./about me aayesha.png" width="75%" alt="Aayesha Coding"/>
+<table>
 
-</div>
+<tr>
 
-<br><br>
+<td width="33%" align="center">
+
 ### 🧠 AI & ML
 
 Exploring intelligent systems, machine learning concepts and AI-powered applications.
@@ -134,14 +135,6 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 <br><br>
 
-<div align="center">
-
-<img src="./about me aayesha.png" width="75%" alt="Aayesha Coding"/>
-
-</div>
-
-<br><br>
-
 ---
 
 # 💫 MY DIGITAL TOOLKIT
@@ -164,11 +157,10 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 ---
 
----
-
 # 🧪 CURRENT PROJECT LAB
 
-<img src="./about me aayesha.png" width="75%" alt="Aayesha Coding"/>
+<div align="center">
+
 ### A small look at what I'm currently building, learning and exploring 🚀
 
 <br>
@@ -327,11 +319,7 @@ Learning from every project, challenge and mistake while moving towards bigger g
 
 ---
 
----
-
 # 🐍 CONTRIBUTION SNAKE
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
