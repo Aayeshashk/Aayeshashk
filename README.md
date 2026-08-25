@@ -165,27 +165,83 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+---
+
+# 🧪 CURRENT PROJECT LAB
 
 <div align="center">
 
-### A small look inside my coding universe 🌌
+### A small look at what I'm currently building, learning and exploring 🚀
 
 <br>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800"
-alt="GitHub Stats"/>
+<table>
 
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com?user=Aayeshashk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF"
-alt="GitHub Streak Stats"/>
+<tr>
 
-<br><br>
+<td width="33%" align="center" valign="top">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&cache_seconds=1800"
-alt="Top Languages"/>
+## 🔬 BUILDING
+
+### Real-World Projects
+
+Turning ideas into practical applications while improving my development and problem-solving skills.
+
+<br>
+
+**Currently focusing on:**
+
+- Web Development
+- Software Projects
+- API Integration
+- Responsive Interfaces
+- Real-World Applications
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🧠 EXPLORING
+
+### AI & Technology
+
+Learning how intelligent systems and modern technologies can solve meaningful problems.
+
+<br>
+
+**Currently exploring:**
+
+- Artificial Intelligence
+- Machine Learning
+- Intelligent Systems
+- Automation
+- Data-Driven Solutions
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🚀 NEXT MISSION
+
+### Keep Growing
+
+Continuously improving my technical knowledge and turning learning into practical experience.
+
+<br>
+
+**My next goals:**
+
+- Build Better Projects
+- Learn New Technologies
+- Strengthen Problem Solving
+- Explore New Ideas
+- Create Real Impact
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -193,23 +249,85 @@ alt="Top Languages"/>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+# 🎯 MY LEARNING ROADMAP
 
 <div align="center">
 
-### Every commit is a small step forward ✨
+### Every skill starts with curiosity and grows through consistent practice ✨
 
 <br>
 
-<img
-<img
-src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/github-metrics.svg"
-width="100%"
-alt="Aayesha's GitHub Metrics"/>
+<table>
+
+<tr>
+
+<td align="center" width="20%">
+
+## 🌱 START
+
+### Learn
+
+Building strong foundations in programming, technology and computer engineering concepts.
+
+</td>
+
+<td align="center" width="20%">
+
+## 💻 CODE
+
+### Practice
+
+Improving programming skills through consistent practice, experimentation and problem solving.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🧠 EXPLORE
+
+### Discover
+
+Exploring web development, software engineering, AI and intelligent technologies.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🛠️ BUILD
+
+### Create
+
+Turning ideas and knowledge into practical projects and digital experiences.
+
+</td>
+
+<td align="center" width="20%">
+
+## 🚀 GROW
+
+### Improve
+
+Learning from every project, challenge and mistake while moving towards bigger goals.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+### 🌱 Learn → 💻 Code → 🧠 Explore → 🛠️ Build → 🚀 Grow
+
+<br>
+
+> ### ✨ *"Don't just learn technology. Build with it."*
 
 </div>
 
 <br><br>
+
+---
 
 ---
 
