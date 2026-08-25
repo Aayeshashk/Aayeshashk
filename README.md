@@ -168,8 +168,7 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 # 🧪 CURRENT PROJECT LAB
 
-<div align="center">
-
+<img src="./about me aayesha.png" width="75%" alt="Aayesha Coding"/>
 ### A small look at what I'm currently building, learning and exploring 🚀
 
 <br>
