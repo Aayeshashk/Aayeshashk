@@ -209,27 +209,15 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 ## 🌐 Web Development
 
-### Interactive Web Projects
-
-Projects focused on creating responsive, interactive and user-friendly web applications.
+Building responsive and interactive web experiences.
 
 <br>
 
-**✨ Exploring**
+**✨ Focus**
 
-- Responsive Web Design
 - Frontend Development
 - Backend Integration
-- APIs
-- Modern UI/UX
-
-<br>
-
-<a href="https://github.com/Aayeshashk">
-
-<img src="https://img.shields.io/badge/View%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+- APIs & UI/UX
 
 </td>
 
@@ -237,27 +225,15 @@ Projects focused on creating responsive, interactive and user-friendly web appli
 
 ## 🧠 AI & Intelligent Systems
 
-### Building Smarter Technology
-
-Projects exploring artificial intelligence, machine learning and intelligent applications.
+Exploring intelligent and data-driven applications.
 
 <br>
 
-**✨ Exploring**
+**✨ Focus**
 
 - Machine Learning
-- Artificial Intelligence
+- AI Applications
 - Intelligent Systems
-- Automation
-- Data-driven Solutions
-
-<br>
-
-<a href="https://github.com/Aayeshashk">
-
-<img src="https://img.shields.io/badge/View%20Projects-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
 
 </td>
 
@@ -269,27 +245,15 @@ Projects exploring artificial intelligence, machine learning and intelligent app
 
 ## 💻 Software Projects
 
-### Solving Practical Problems
-
-Applications designed to solve problems using programming and modern software technologies.
+Creating practical solutions through clean and efficient code.
 
 <br>
 
-**✨ Exploring**
+**✨ Focus**
 
 - Software Engineering
 - Problem Solving
 - System Design
-- Clean Code
-- Project Development
-
-<br>
-
-<a href="https://github.com/Aayeshashk">
-
-<img src="https://img.shields.io/badge/View%20Projects-F472B6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
 
 </td>
 
@@ -297,27 +261,15 @@ Applications designed to solve problems using programming and modern software te
 
 ## 🎨 Digital Experiences
 
-### Technology Meets Creativity
-
-Exploring the combination of development, design and interactive experiences.
+Combining technology, creativity and user-friendly design.
 
 <br>
 
-**✨ Exploring**
+**✨ Focus**
 
 - UI/UX Design
 - Interactive Interfaces
-- Modern Aesthetics
-- User Experience
 - Creative Technology
-
-<br>
-
-<a href="https://github.com/Aayeshashk">
-
-<img src="https://img.shields.io/badge/View%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
 
 </td>
 
