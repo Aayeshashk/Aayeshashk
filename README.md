@@ -72,7 +72,21 @@ My goal is to continuously improve my technical skills while creating projects t
 
 <td width="45%" align="center">
 
-<img src="./Aayeshaprofile pic.png" width="90%" alt="Aayesha Coding"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./Aayeshaprofilepicdark.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./Aayeshaprofilepicbright.png"
+  />
+  <img
+    src="./banner-dark.png"
+    width="100%"
+    alt="Aayesha Shaikh Banner"
+  />
+</picture>
 
 </td>
 
@@ -156,7 +170,6 @@ Improving programming skills, logical thinking and real-world problem solving.
 
 # 🐍 CONTRIBUTION SNAKE
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <p align="center">
   <i>Watch my contributions come alive 🐍✨</i>
