@@ -13,11 +13,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-C084FC?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Web%20Development-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-F472B6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </div>
 
