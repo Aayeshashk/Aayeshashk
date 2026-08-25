@@ -174,15 +174,18 @@ Improving programming skills, logical thinking and real-world problem solving.
 <br>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api?username=Aayeshashk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=38BDF8&text_color=FFFFFF&cache_seconds=1800"
+alt="GitHub Stats"/>
 
 <img height="180em"
-src="https://streak-stats.demolab.com?user=Aayeshashk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF"/>
+src="https://github-readme-streak-stats.herokuapp.com?user=Aayeshashk&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=FFFFFF"
+alt="GitHub Streak Stats"/>
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayeshashk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&cache_seconds=1800"
+alt="Top Languages"/>
 
 </div>
 
