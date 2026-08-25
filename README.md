@@ -12,13 +12,6 @@
 <!--        PROFILE PIC        -->
 <!-- ========================= -->
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/main/Aayeshaprofilepic.png"
-    width="220"
-    alt="Aayesha Profile Picture"
-  />
-</p>
 
 <h1 align="center">
   Hi, I'm Aayesha 👋
