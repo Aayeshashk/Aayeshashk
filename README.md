@@ -211,20 +211,25 @@ alt="GitHub Contribution Activity Graph"/>
 
 # 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-### Watch my contributions come alive 🐍✨
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <i>Watch my contributions come alive 🐍✨</i>
+</p>
 
 <br>
 
-<img
-src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Aayeshashk/Aayeshashk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
 
-</div>
-
-<br><br>
+<br>
 
 ---
 
