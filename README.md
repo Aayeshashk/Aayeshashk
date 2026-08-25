@@ -5,14 +5,27 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Aayesha Shaikh Banner"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./bannervidark.gif"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./bannervibright.gif"
+  />
+  <img
+    src="./bannervibright.gif"
+    width="100%"
+    alt="Aayesha Shaikh Banner"
+  />
+</picture>
 
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Aayesha+%F0%9F%91%8B;Computer+Engineering+Student+%E2%9A%A1;Building+Ideas+Into+Digital+Experiences+%F0%9F%9A%80;AI+%7C+Development+%7C+Innovation+%E2%9C%A8" alt="Typing Animation"/>
 
 <br><br>
-
 
 </div>
 
@@ -23,6 +36,7 @@
 <div align="center">
 
 # ✦ HELLO WORLD ✦
+
 
 </div>
 
